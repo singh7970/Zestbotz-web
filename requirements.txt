@@ -5,9 +5,11 @@ charset-normalizer==3.4.1
 cssselect==1.2.0
 cssutils==2.11.1
 Django==5.1.4
+gunicorn==23.0.0
 idna==3.10
 lxml==5.3.0
 more-itertools==10.5.0
+packaging==24.2
 premailer==3.10.0
 PyMySQL==1.1.1
 requests==2.32.3
